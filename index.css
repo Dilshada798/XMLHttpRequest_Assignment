@@ -1,0 +1,20 @@
+body{
+    background-color:grey;
+
+
+}
+h1{
+    margin-top:90px;
+}
+
+#inputsearch{
+
+    height:60px;
+    width:390px;
+    margin-top:20px;
+}
+#submitbutton{
+    height:60px;
+    width:70px;
+
+}
